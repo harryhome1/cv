@@ -1,0 +1,42 @@
+body{
+    background-color: #EAF6F6;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1{
+    font-family: sans-serif;
+    color: #40E0D0;
+    
+}
+
+h3{
+    color: #66bfbf;
+}
+
+h1:hover{
+    color: #1C39BB;
+}
+
+.head:hover{
+    color: #1C39BB;
+}
+
+h3:hover{
+    color: gold;
+}
+
+a:hover{
+    color: darkgreen;
+}
+
+img {
+    border: 5px solid #B0C4DE;
+    border-top: 0px;
+  }
